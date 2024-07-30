@@ -14,3 +14,6 @@ if count==0 :
 else:
             print('Vowels are : '+str(count))
 
+print('Reversed string :'+s[::-1])
+
+
